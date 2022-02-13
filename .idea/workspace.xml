@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c838226-7562-43b0-89fe-a50ebb8ec841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vn5IDZsJsnvsc8CiemWEehChHs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Barcode Scanner and generator/using camera for scanning.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.using mobile camera to scan">
+    <configuration name="Library Softwares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Applications" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Library Softwares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Music Player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Applications" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Music Player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic Tac Toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Applications" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RAVI SIR PYTHON/tkinter projects" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../RAVI SIR PYTHON/tkinter projects/Tic Tac Toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="using camera for scanning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Applications" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Barcode Scanner and generator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Barcode Scanner and generator/using camera for scanning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="using mobile camera to scan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Applications" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Barcode Scanner and generator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Barcode Scanner and generator/using mobile camera to scan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.using mobile camera to scan" />
+        <item itemvalue="Python.using camera for scanning" />
+        <item itemvalue="Python.Music Player" />
+        <item itemvalue="Python.Tic Tac Toe" />
+        <item itemvalue="Python.Library Softwares" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c838226-7562-43b0-89fe-a50ebb8ec841" name="Default Changelist" comment="" />
+      <created>1577875936563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577875936563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577875988932">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1577875988932" />
+    <state x="549" y="189" key="FileChooserDialogImpl" timestamp="1578302263295">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="189" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578302263295" />
+    <state width="1515" height="186" key="GridCell.Tab.0.bottom" timestamp="1578302663048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1003" height="186" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1578281261458" />
+    <state width="1515" height="186" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578302663048" />
+    <state width="1515" height="186" key="GridCell.Tab.0.center" timestamp="1578302663048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1003" height="186" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1578281261457" />
+    <state width="1515" height="186" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578302663048" />
+    <state width="1515" height="186" key="GridCell.Tab.0.left" timestamp="1578302663048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1003" height="186" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1578281261457" />
+    <state width="1515" height="186" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578302663048" />
+    <state width="1515" height="186" key="GridCell.Tab.0.right" timestamp="1578302663048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1003" height="186" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1578281261457" />
+    <state width="1515" height="186" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578302663048" />
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1578201502134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578201502134" />
+    <state width="1515" height="277" key="GridCell.Tab.1.center" timestamp="1578201502133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578201502133" />
+    <state width="1515" height="277" key="GridCell.Tab.1.left" timestamp="1578201502133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578201502133" />
+    <state width="1515" height="277" key="GridCell.Tab.1.right" timestamp="1578201502133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578201502133" />
+    <state x="285" y="77" key="SettingsEditor" timestamp="1578286659451">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="56" y="57" key="SettingsEditor/0.0.1024.768@0.0.1024.768" timestamp="1578281240689" />
+    <state x="285" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578286659451" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578202282179">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578202282179" />
+  </component>
+</project>
